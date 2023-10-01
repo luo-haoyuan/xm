@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://xmhua.ml",
+  hostname: "https://xmhua.wemsx.top",
 
   author: {
     name: "wemsx",
@@ -82,7 +82,7 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://comment.xmhua.ml",
+      serverURL: "https://c.xmhua.wemsx.top",
       requiredMeta: ['nick'],
       emoji: false,
       imageUploader: false,
